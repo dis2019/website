@@ -237,7 +237,7 @@ Tone Bratteteig &amp;amp; Josh Tennenbaum&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Conference:&lt;/strong&gt; June 23-29, 2019&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;preparing-and-submitting-your-submissions&#34;&gt;Preparing and Submitting Your Submissions&lt;/h1&gt;
+&lt;h1 id=&#34;preparing&#34;&gt;Preparing and Submitting Your Submissions&lt;/h1&gt;
 
 &lt;h2 id=&#34;abstract-and-title-submissions&#34;&gt;Abstract and Title Submissions&lt;/h2&gt;
 
@@ -336,53 +336,68 @@ Virginia Tech, Blacksburg Virginia USA&lt;/p&gt;
 
 &lt;h1 id=&#34;what-to-submit&#34;&gt;What to submit?&lt;/h1&gt;
 
-&lt;p&gt;Submissions may cover diverse topics that include (but are not limited to):
-- Design processes and decisions affecting the material or interactive elements of prototypes
-- Visual materials that provoke thought about interactivity
-- Methodological approaches to design
-- Successful attempts, failed attempts, challenges and lessons learned
-- Deployments of interactive design artifacts
-- Experiences in design-based research
-- Other insights, practices or processes often unmentioned in important phases of design research and practice&lt;/p&gt;
+&lt;p&gt;Submissions may cover diverse topics that include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design processes and decisions affecting the material or interactive elements of prototypes&lt;/li&gt;
+&lt;li&gt;Visual materials that provoke thought about interactivity&lt;/li&gt;
+&lt;li&gt;Methodological approaches to design&lt;/li&gt;
+&lt;li&gt;Successful attempts, failed attempts, challenges and lessons learned&lt;/li&gt;
+&lt;li&gt;Deployments of interactive design artifacts&lt;/li&gt;
+&lt;li&gt;Experiences in design-based research&lt;/li&gt;
+&lt;li&gt;Other insights, practices or processes often unmentioned in important phases of design research and practice&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;presentation-quality&#34;&gt;Presentation quality&lt;/h1&gt;
 
-&lt;p&gt;In pictorials, production values and visual quality matters. We encourage authors to be creative with their submissions. Pictorial contents could consist of (but are not limited to):
-- Design sketches
-- Annotated images
-- Illustrations and diagrams
-- Field notes or sketches (ensure that sketches are readable for the intended purposes)
-- Collages
-- Photographs and annotated photographs&lt;/p&gt;
+&lt;p&gt;In pictorials, production values and visual quality matters. We encourage authors to be creative with their submissions. Pictorial contents could consist of (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design sketches&lt;/li&gt;
+&lt;li&gt;Annotated images&lt;/li&gt;
+&lt;li&gt;Illustrations and diagrams&lt;/li&gt;
+&lt;li&gt;Field notes or sketches (ensure that sketches are readable for the intended purposes)&lt;/li&gt;
+&lt;li&gt;Collages&lt;/li&gt;
+&lt;li&gt;Photographs and annotated photographs&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;checklist-for-authors&#34;&gt;Checklist for authors&lt;/h1&gt;
 
-&lt;p&gt;Other important factors to consider in creating a Pictorial:
-- Are images/diagrams emphasized over text as the primary means of communicating the research contribution?
-- Does your work require a Pictorial format, or would it be clearer in textual form?
-- Is the production value for the images and/or diagrams of high quality?
-- Is the Pictorial framed and well referenced within DIS and HCI especially, and outside of HCI where needed? (but please note: it is not necessary to reference everything about visual presentation that has ever been advanced by any discipline)
-- Are the implications for HCI and/or interaction design clear? These may be analytic, generative, synthesis-oriented, and even manifestos.
-- Are the societal benefits of the Pictorial clear and in line with ACM Code of Ethics and Professional Conduct?
-- Does every image used in the Pictorial play a meaningful role and clearly present the idea on its own or with the support of text?
-- Does the placement of images and text compose a good narrative that makes effective use of the format?&lt;/p&gt;
+&lt;p&gt;Other important factors to consider in creating a Pictorial:&lt;/p&gt;
 
-&lt;p&gt;Another feature of Pictorials is that they must turn into engaging presentations at the DIS conference. Before submitting a pictorial, please think about the presentation:
-- ‍Does the pictorial require visuals?
-- What would these visuals be?
-- Can you build a visually engaging presentation around them?
-- Do they clarify the argument better than a traditional slideshow and text?
-- Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are images/diagrams emphasized over text as the primary means of communicating the research contribution?&lt;/li&gt;
+&lt;li&gt;Does your work require a Pictorial format, or would it be clearer in textual form?&lt;/li&gt;
+&lt;li&gt;Is the production value for the images and/or diagrams of high quality?&lt;/li&gt;
+&lt;li&gt;Is the Pictorial framed and well referenced within DIS and HCI especially, and outside of HCI where needed? (but please note: it is not necessary to reference everything about visual presentation that has ever been advanced by any discipline)&lt;/li&gt;
+&lt;li&gt;Are the implications for HCI and/or interaction design clear? These may be analytic, generative, synthesis-oriented, and even manifestos.&lt;/li&gt;
+&lt;li&gt;Are the societal benefits of the Pictorial clear and in line with ACM Code of Ethics and Professional Conduct?&lt;/li&gt;
+&lt;li&gt;Does every image used in the Pictorial play a meaningful role and clearly present the idea on its own or with the support of text?&lt;/li&gt;
+&lt;li&gt;Does the placement of images and text compose a good narrative that makes effective use of the format?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another feature of Pictorials is that they must turn into engaging presentations at the DIS conference. Before submitting a pictorial, please think about the presentation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;‍Does the pictorial require visuals?&lt;/li&gt;
+&lt;li&gt;What would these visuals be?&lt;/li&gt;
+&lt;li&gt;Can you build a visually engaging presentation around them?&lt;/li&gt;
+&lt;li&gt;Do they clarify the argument better than a traditional slideshow and text?&lt;/li&gt;
+&lt;li&gt;Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;checklist-for-reviewers&#34;&gt;Checklist for reviewers&lt;/h1&gt;
 
-&lt;p&gt;Does the Pictorial:
-- Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?
-- Does the Pictorial make a contribution to HCI (and beyond)?
-- Is the Pictorial well-situated within other DIS and HCI work?
-- Does it make a clear, logical argument that makes the claim of the paper believable?
-- Represent a visual quality high enough to convey the message of the Pictorial?
-- Do you think it turns into a visually engaging presentation? What would the format for such a presentation be?&lt;/p&gt;
+&lt;p&gt;Does the Pictorial:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?&lt;/li&gt;
+&lt;li&gt;Does the Pictorial make a contribution to HCI (and beyond)?&lt;/li&gt;
+&lt;li&gt;Is the Pictorial well-situated within other DIS and HCI work?&lt;/li&gt;
+&lt;li&gt;Does it make a clear, logical argument that makes the claim of the paper believable?&lt;/li&gt;
+&lt;li&gt;Represent a visual quality high enough to convey the message of the Pictorial?&lt;/li&gt;
+&lt;li&gt;Do you think it turns into a visually engaging presentation? What would the format for such a presentation be?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;acceptance-rate-and-copyrighted-materials&#34;&gt;Acceptance rate and copyrighted materials&lt;/h1&gt;
 
@@ -392,7 +407,7 @@ Virginia Tech, Blacksburg Virginia USA&lt;/p&gt;
 
 &lt;p&gt;You must be the author and copyright holder of all materials you submit, particularly all visual materials. Submitted work must comply with ACM policies.&lt;/p&gt;
 
-&lt;h1 id=&#34;format&#34;&gt;Format&lt;/h1&gt;
+&lt;h1 id=&#34;pictorial_format&#34;&gt;Format&lt;/h1&gt;
 
 &lt;p&gt;All submissions should be anonymous and submitted via the PCS submission system. PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.&lt;/p&gt;
 
@@ -402,7 +417,7 @@ Virginia Tech, Blacksburg Virginia USA&lt;/p&gt;
 
 &lt;p&gt;Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;MISSING LINK&lt;/strong&gt;: [DISPictorials2019.zip]()&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MISSING LINK&lt;/strong&gt;: DISPictorials2019.zip&lt;/p&gt;
 
 &lt;p&gt;We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.&lt;/p&gt;
 
@@ -646,45 +661,67 @@ Indiana University&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/workshops/</guid>
-      <description>&lt;p&gt;We welcome proposals for hosting a workshop at DIS 2019 that align with the conference theme. Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building. We encourage proposals to host a workshop that encourage participants to engage in alternatives to established approaches in design and computing; this can include but is not limited to artistic and humanistic approaches, craft, tinkering, hacking, feminist, postcolonial, and longer-term approaches to design, reflective engagements with politics and cultures of design.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Workshop Planning:
-DIS 2019 workshops will be held on the first two days of the conference (23-24 June, 2019); workshops may be for half-day, whole day, or two days. Plan for 6 working hours per day, with morning, afternoon and lunch breaks. Reserving unhurried time for socializing is critical. Workshops should aim to attract between 10-25 participants.&lt;/p&gt;
+&lt;p&gt;We welcome proposals for hosting a workshop at DIS 2019 that align with the conference theme. Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building. We encourage proposals to host a workshop that encourage participants to engage in alternatives to established approaches in design and computing; this can include but is not limited to artistic and humanistic approaches, craft, tinkering, hacking, feminist, postcolonial, and longer-term approaches to design, reflective engagements with politics and cultures of design.&lt;/p&gt;
 
-&lt;p&gt;We encourage provocative, interdisciplinary, boundary crossing and experimental proposals that relate to the topics of DIS:
-•     Design Methods and Processes: Methods, tools, and techniques for engaging people; researching, designing, and co-designing interactive systems; participatory design, design artefacts, research through design; the use of critical theory, feminist methods, counter-factual histories and cultural analysis to understand, critique and reflect on design products and contexts as well as design practices.
-•     Experience: Places, temporality, people, communities, events, phenomena, aesthetics, user experience, usability, engagement, empowerment, disruption, wellbeing, designing things that matter, diversity, participation, materiality, making, etc.
-•     Themes: Sustainability, Health, resilience, longer-term approaches, children-computer interaction, games and play, digital arts, making, craft, digital labor, etc.
-•     Technological Innovation (systems, tools, and/or artifact designs): Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.&lt;/p&gt;
+&lt;h1 id=&#34;workshop-planning&#34;&gt;Workshop Planning&lt;/h1&gt;
 
-&lt;p&gt;The Conference Context:
-There are some unusual elements to consider when proposing a workshop for DIS 2019:
-•     Joint with Creativity and Cognition 2019: DIS and C&amp;amp;C will share the conference venue. If you believe that your topic would be of particular interest to attendees of C&amp;amp;C as well as DIS, please note it. The Workshop Chairs of C&amp;amp;C and DIS will share proposals to create an overall program of workshops that not only serve the particular needs and interest of their own communities but will look for opportunities to increase the dialogue between them, as well as try to minimize duplication.
-•     Taking advantage of location and theme: Workshops that involve local engagement around the DIS 2019 theme of contesting borders and intersections are encouraged. While the conference does have on-site space, innovative workshops that are place-specific in the San Diego area are invited; such proposals need to explain access plans.&lt;/p&gt;
+&lt;p&gt;DIS 2019 workshops will be held on the first two days of the conference (23-24 June, 2019); workshops may be for half-day, whole day, or two days. Plan for 6 working hours per day, with morning, afternoon and lunch breaks. Reserving unhurried time for socializing is critical. Workshops should aim to attract between 10-25 participants.&lt;/p&gt;
 
-&lt;p&gt;Important Dates:
-18 January 2019: Proposals to host a workshop due. The submission system closes at 23:59 PST.
-8 March 2018: Notifications to authors on whether their proposed workshop was accepted
-22  March 2018: All camera ready papers due
-23-24 June 2018: Workshops and Doctoral Consortium&lt;/p&gt;
+&lt;p&gt;We encourage provocative, interdisciplinary, boundary crossing and experimental proposals that relate to the topics of DIS:&lt;/p&gt;
 
-&lt;p&gt;Submission Details
-Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design Methods and Processes: Methods, tools, and techniques for engaging people; researching, designing, and co-designing interactive systems; participatory design, design artefacts, research through design; the use of critical theory, feminist methods, counter-factual histories and cultural analysis to understand, critique and reflect on design products and contexts as well as design practices.&lt;/li&gt;
+&lt;li&gt;Experience: Places, temporality, people, communities, events, phenomena, aesthetics, user experience, usability, engagement, empowerment, disruption, wellbeing, designing things that matter, diversity, participation, materiality, making, etc.&lt;/li&gt;
+&lt;li&gt;Themes: Sustainability, Health, resilience, longer-term approaches, children-computer interaction, games and play, digital arts, making, craft, digital labor, etc.&lt;/li&gt;
+&lt;li&gt;Technological Innovation (systems, tools, and/or artifact designs): Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Abstract: An abstract describing your proposed workshop should be up to 4 pages in length including references in the SIGCHI Extended Abstracts Format, submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
-Title and proposed duration
-Organizers’ names and institutional addresses (proposals are not anonymized for review)
-Workshop theme and goals, background and motivation&lt;/p&gt;
+&lt;h1 id=&#34;the-conference-context&#34;&gt;The Conference Context&lt;/h1&gt;
 
-&lt;p&gt;Detailed Workshop Description: A workshop description should also be submitted (as a separate file), containing details of your proposed workshop to help the workshop chairs understand the specifics. Please include:
-Intended audience and recruitment strategy
-Schedule and description of activities planned
-Intended outcomes of the workshop, their benefits and significance
-Required facilities
-Specifications of your work, including size, weight, light and sound emission
-A plan for how the results of the workshop will be disseminated beyond DIS 2019
-Short biographies of the organizers (including photos)
-A draft 250-word call for participation for your workshop which will be posted on the DIS 2019 conference website. This should contain information on how and what potential participants should submit to you.&lt;/p&gt;
+&lt;p&gt;There are some unusual elements to consider when proposing a workshop for DIS 2019:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Joint with Creativity and Cognition 2019: DIS and C&amp;amp;C will share the conference venue. If you believe that your topic would be of particular interest to attendees of C&amp;amp;C as well as DIS, please note it. The Workshop Chairs of C&amp;amp;C and DIS will share proposals to create an overall program of workshops that not only serve the particular needs and interest of their own communities but will look for opportunities to increase the dialogue between them, as well as try to minimize duplication.&lt;/li&gt;
+&lt;li&gt;Taking advantage of location and theme: Workshops that involve local engagement around the DIS 2019 theme of contesting borders and intersections are encouraged. While the conference does have on-site space, innovative workshops that are place-specific in the San Diego area are invited; such proposals need to explain access plans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proposals to host a workshop due:&lt;/strong&gt; 18 January 2019 (The submission system closes at 23:59 PST)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notifications to authors on whether their proposed workshop was accepted:&lt;/strong&gt; 8 March 2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;All camera ready papers due:&lt;/strong&gt; 22  March 2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshops and Doctoral Consortium:&lt;/strong&gt; 23-24 June 2018&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;submission-details&#34;&gt;Submission Details&lt;/h1&gt;
+
+&lt;p&gt;Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;An abstract describing your proposed workshop should be up to 4 pages in length including references in the SIGCHI Extended Abstracts Format, submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Title and proposed duration&lt;/li&gt;
+&lt;li&gt;Organizers’ names and institutional addresses (proposals are not anonymized for review)&lt;/li&gt;
+&lt;li&gt;Workshop theme and goals, background and motivation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Detailed Workshop Description: A workshop description should also be submitted (as a separate file), containing details of your proposed workshop to help the workshop chairs understand the specifics. Please include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intended audience and recruitment strategy&lt;/li&gt;
+&lt;li&gt;Schedule and description of activities planned&lt;/li&gt;
+&lt;li&gt;Intended outcomes of the workshop, their benefits and significance&lt;/li&gt;
+&lt;li&gt;Required facilities&lt;/li&gt;
+&lt;li&gt;Specifications of your work, including size, weight, light and sound emission&lt;/li&gt;
+&lt;li&gt;A plan for how the results of the workshop will be disseminated beyond DIS 2019&lt;/li&gt;
+&lt;li&gt;Short biographies of the organizers (including photos)&lt;/li&gt;
+&lt;li&gt;A draft 250-word call for participation for your workshop which will be posted on the DIS 2019 conference website. This should contain information on how and what potential participants should submit to you.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;All submissions will be reviewed by the workshop chairs. Successful proposals to host a workshop should describe how the workshop format will be leveraged to generate clear outcomes and to make constructive and valuable use of the participants’ collective expertise. Social, active and engaging workshop concepts with clear collaborative outcomes will be preferred, as will workshops that have strong potential to generate cross-disciplinary interest.&lt;/p&gt;
 
@@ -694,14 +731,15 @@ A draft 250-word call for participation for your workshop which will be posted o
 
 &lt;p&gt;&lt;a href=&#34;http://dis2017.org/workshop-program/&#34; target=&#34;_blank&#34;&gt;http://dis2017.org/workshop-program/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Workshops Chairs
-Silvia Lindtner
+&lt;h1 id=&#34;workshops-chairs&#34;&gt;Workshops Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:workshopchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;workshopchairs [AT] dis2019.acm.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Silvia Lindtner&lt;br /&gt;
 University of Michigan&lt;/p&gt;
 
-&lt;p&gt;Lisa P. Nathan
+&lt;p&gt;Lisa P. Nathan&lt;br /&gt;
 University of British Columbia&lt;/p&gt;
-
-&lt;p&gt;workshopchairs [AT] dis2019.acm.org&lt;/p&gt;
 </description>
     </item>
     
