@@ -1,31 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://dis2019.github.io/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/cfp/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://dis2019.github.io/cfp/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://dis2019.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://dis2019.github.io/importantdates/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/importantdates/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://dis2019.github.io/organizers/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/organizers/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://dis2019.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/papers/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/pictorials/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/provocations_wips/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/workshops/</loc>
+    </url>
+    
   
 </urlset>
