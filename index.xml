@@ -69,38 +69,6 @@
     </item>
     
     <item>
-      <title>Important Dates</title>
-      <link>/importantdates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/importantdates/</guid>
-      <description>
-
-&lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Abstract and title due:&lt;/strong&gt; Tuesday, January 15, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper submission deadline:&lt;/strong&gt; Friday, January 18, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;External reviews due:&lt;/strong&gt; Friday, March 1, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Virtual PC Meeting with all ACs, SCs, and TCs (GCs will observe):&lt;/strong&gt; Monday/Tuesday, March 18 &amp;amp; 19, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper notifications to authors:&lt;/strong&gt; Thursday, March 21, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Papers camera ready deadline:&lt;/strong&gt; Wednesday, April 17, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conference:&lt;/strong&gt; June 23-29, 2019&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;other-deadlines&#34;&gt;Other Deadlines&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Pictorials:&lt;/strong&gt; Friday, January 18, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Workshop Proposals:&lt;/strong&gt; Friday January 18, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Doctoral Consortium:&lt;/strong&gt; Friday, February 8, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Provocations/WIP:&lt;/strong&gt; Friday, February 8, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Demos:&lt;/strong&gt; Friday, February 8, 2019&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Organizers</title>
       <link>/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -108,87 +76,89 @@
       <guid>/organizers/</guid>
       <description>
 
-&lt;h1 id=&#34;conference-chairs&#34;&gt;Conference Chairs:&lt;/h1&gt;
+&lt;h2 id=&#34;conference-chairs&#34;&gt;Conference Chairs:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:generalchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;generalchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Steve Harrison &amp;amp; Shaowen Bardzell&lt;/p&gt;
 
-&lt;h1 id=&#34;associate-chairs&#34;&gt;Associate Chairs:&lt;/h1&gt;
+&lt;h2 id=&#34;associate-chairs&#34;&gt;Associate Chairs:&lt;/h2&gt;
 
 &lt;p&gt;Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)&lt;/p&gt;
 
-&lt;h1 id=&#34;technical-program-chairs&#34;&gt;Technical Program Chairs:&lt;/h1&gt;
+&lt;h2 id=&#34;technical-program-chairs&#34;&gt;Technical Program Chairs:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:technicalchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;technicalchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Carman Neustaedter &amp;amp; Deborah Tatar&lt;/p&gt;
 
-&lt;h1 id=&#34;doctoral-consortium&#34;&gt;Doctoral Consortium:&lt;/h1&gt;
+&lt;h2 id=&#34;doctoral-consortium&#34;&gt;Doctoral Consortium:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:dcchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;dcchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Susanne Bødker &amp;amp; John Bowers&lt;/p&gt;
 
-&lt;h1 id=&#34;pictorials&#34;&gt;Pictorials:&lt;/h1&gt;
+&lt;h2 id=&#34;pictorials&#34;&gt;Pictorials:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:pictorialchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;pictorialchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Kristina Anderson &amp;amp; Shad Gross&lt;/p&gt;
 
-&lt;h1 id=&#34;provocations-wips&#34;&gt;Provocations / WIPS:&lt;/h1&gt;
+&lt;h2 id=&#34;provocations-wips&#34;&gt;Provocations / WIPS:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:provocationschairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;provocationschairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Lone Koefoed Hansen &amp;amp; Norman Su&lt;/p&gt;
 
-&lt;h1 id=&#34;workshops&#34;&gt;Workshops:&lt;/h1&gt;
+&lt;h2 id=&#34;workshops&#34;&gt;Workshops:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:workshopchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;workshopchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Silvia Lindtner &amp;amp; Lisa Nathan&lt;/p&gt;
 
-&lt;h1 id=&#34;demos&#34;&gt;Demos:&lt;/h1&gt;
+&lt;h2 id=&#34;demos&#34;&gt;Demos:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:demochairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;demochairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Stacy Kuznetzov &amp;amp; Scott Davidoff&lt;/p&gt;
 
-&lt;h1 id=&#34;art-chairs&#34;&gt;Art Chairs:&lt;/h1&gt;
+&lt;h2 id=&#34;art-chairs&#34;&gt;Art Chairs:&lt;/h2&gt;
 
 &lt;p&gt;Sheldon Brown &amp;amp; Jonas Fritsch&lt;/p&gt;
 
-&lt;h1 id=&#34;accessibility-diversity&#34;&gt;Accessibility &amp;amp; Diversity:&lt;/h1&gt;
+&lt;h2 id=&#34;accessibility-diversity&#34;&gt;Accessibility &amp;amp; Diversity:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:accessibilitychair@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;accessibilitychair [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Stacy Branham&lt;/p&gt;
 
-&lt;h1 id=&#34;publicity-social-media&#34;&gt;Publicity/Social Media:&lt;/h1&gt;
+&lt;h2 id=&#34;publicity-social-media&#34;&gt;Publicity/Social Media:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:publicitymediachairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;publicitymediachairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Chih-Sheng Su, Anicia Peters, Nicolai Hansen &amp;amp; Sabrina Hauser&lt;/p&gt;
 
-&lt;h1 id=&#34;local-liaison&#34;&gt;Local Liaison:&lt;/h1&gt;
+&lt;h2 id=&#34;local-liaison&#34;&gt;Local Liaison:&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:localchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;localchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Lilly Irani, Wendy Kellogg &amp;amp; John Thomas&lt;/p&gt;
 
-&lt;h1 id=&#34;webmaster&#34;&gt;Webmaster:&lt;/h1&gt;
+&lt;h2 id=&#34;webmaster&#34;&gt;Webmaster:&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:jtibau@vt.edu&#34; target=&#34;_blank&#34;&gt;jtibau [at] vt.edu&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:webmaster@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;jtibau [at] vt.edu&lt;/a&gt;&lt;br /&gt;
 Javier Tibau&lt;/p&gt;
 
-&lt;h1 id=&#34;paper-sub-committees&#34;&gt;Paper Sub-Committees&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;critical-computing-and-design-theory&#34;&gt;Critical Computing and Design Theory:&lt;/h2&gt;
+&lt;h2 id=&#34;paper-sub-committees&#34;&gt;Paper Sub-Committees&lt;/h2&gt;
+
+&lt;h3 id=&#34;critical-computing-and-design-theory&#34;&gt;Critical Computing and Design Theory:&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:theory_criticalcomputing_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;theory_criticalcomputing_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Paul Dourish &amp;amp; Jeffery Bardzell&lt;/p&gt;
 
-&lt;h2 id=&#34;design-methods-and-processes&#34;&gt;Design Methods and Processes:&lt;/h2&gt;
+&lt;h3 id=&#34;design-methods-and-processes&#34;&gt;Design Methods and Processes:&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:methods_processes_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;methods_processes_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Ellen Do &amp;amp; John Zimmerman&lt;/p&gt;
 
-&lt;h2 id=&#34;experience-artifacts-and-technology&#34;&gt;Experience, Artifacts, and Technology:&lt;/h2&gt;
+&lt;h3 id=&#34;experience-artifacts-and-technology&#34;&gt;Experience, Artifacts, and Technology:&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:artifacts_experiences_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;artifacts_experiences_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Rogerio de Paula &amp;amp; Shaun Lawson&lt;/p&gt;
 
-&lt;h2 id=&#34;change-through-design&#34;&gt;Change Through Design:&lt;/h2&gt;
+&lt;h3 id=&#34;change-through-design&#34;&gt;Change Through Design:&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:change_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;change_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
 Tone Bratteteig &amp;amp; Josh Tennenbaum&lt;/p&gt;
@@ -235,7 +205,7 @@ Tone Bratteteig &amp;amp; Josh Tennenbaum&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Abstract and title due:&lt;/strong&gt; Tuesday, January 15, 2019&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Paper submission deadline:&lt;/strong&gt; Friday, Jan 18, 2019&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;External reviews due:&lt;/strong&gt; Friday, March 1, 2019&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Virtual PC Meeting with all ACs, SCs, and TCs (GCs will observe):&lt;/strong&gt; Mon/Tues, March 18 and 19, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Virtual Program Committee Meeting with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):&lt;/strong&gt; Mon/Tues, March 18 and 19, 2019&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Paper notifications to authors:&lt;/strong&gt; Thursday, March 21, 2019&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Papers camera ready deadline:&lt;/strong&gt; Wednesday, April 17, 2019&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Conference:&lt;/strong&gt; June 23-29, 2019&lt;/li&gt;
@@ -591,7 +561,7 @@ Indiana University&lt;/p&gt;
 
 &lt;p&gt;All sponsorship will go towards supporting both conferences.  We offer five corporate support levels: Platinum, Gold, Silver, Bronze, and Friends.  See the benefits and costs below.&lt;/p&gt;
 
-&lt;p&gt;Interested in sponsoring DIS and &lt;a href=&#34;https://cc.acm.org/2019/sponsor.php&#34; target=&#34;_blank&#34;&gt;C&amp;amp;C 2019&lt;/a&gt;? Please contact the &lt;a href=&#34;mailto:sponsor2019@cc.cam.org&#34; target=&#34;_blank&#34;&gt;Sponsorship Chairs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Interested in sponsoring DIS2019 and C&amp;amp;C2019? Please contact the &lt;a href=&#34;mailto:sponsor2019@cc.cam.org&#34; target=&#34;_blank&#34;&gt;Sponsorship Chairs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&#34;platinum-sponsors&#34;&gt;Platinum sponsors&lt;/h1&gt;
 
@@ -647,7 +617,7 @@ Indiana University&lt;/p&gt;
 &lt;li&gt;Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;friends-of-c-c-and-dis&#34;&gt;Friends of C&amp;amp;C and DIS&lt;/h1&gt;
+&lt;h1 id=&#34;friends-of-dis2019-and-c-c2019&#34;&gt;Friends of DIS2019 and C&amp;amp;C2019&lt;/h1&gt;
 
 &lt;p&gt;Contribution of $1,000 or more:&lt;/p&gt;
 
